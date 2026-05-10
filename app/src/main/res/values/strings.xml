@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SLOTIFY</string>
+    <string name="sample_time">09:00</string>
+    <string name="sample_subject">Physics</string>
+    <string name="welcome_cr">Welcome, CR!</string>
+    <string name="search_hint">Search something</string>
+    <string name="pending_tasks">Pending Tasks</string>
+    <string name="tasks">Complete Your Tasks now to stay out of Trouble!</string>
+    <string name="click_view">View Tasks</string>
+    <string name="Schedule">Management Suite</string>
+    <string name="timeline">Today\'s Timeline</string>
+    <string name="change_classroom">Classroom Change</string>
+    <string name="timing_change">Change in Timeslot</string>
+    <string name="class_swaped_or_canceled">Class Swap/Canceled</string>
+    <string name="class_ds">Data Structures</string>
+    <string name="class_time">10:30 AM - 12:00 PM</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_exit">Exit</string>
+    <string name="desc_home">Home Icon</string>
+    <string name="desc_settings">Settings Icon</string>
+    <string name="desc_notifications">Notifications Icon</string>
+    <string name="desc_exit">Exit Icon</string>
+    <string name="desc_back">Back Button</string>
+    <string name="title_tasks">Tasks</string>
+    <string name="month_dec">December</string>
+    <string name="tasks_today_count">18 Tasks are today</string>
+    <string name="status_in_process">In process</string>
+    <string name="task_fix_plugin">Fix add plugin</string>
+    <string name="team_members">Team members</string>
+    <string name="duration_4d">4d</string>
+    <string name="goal_daily">Daily Goal</string>
+    <string name="goal_stats">3/6 Tasks</string>
+    <string name="desc_icon">Icon description</string>
+    <string name="due_today">Due Today</string>
+    <string name="task_mad">MAD class has been shifted to room 6405</string>
+    <string name="task_psychology">No Psychology class on Monday</string>
+    <string name="task_web">Web Tech has been Shifted to 13:00</string>
+    <string name="notify_students">Notify Students</string>
+
+</resources>

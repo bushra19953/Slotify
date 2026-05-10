@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/ic_app_logo_white"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_app_logo_white"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Slotify">
+
+        <!-- SPLASH SCREEN - LAUNCHER -->
+        <activity
+            android:name=".semproject.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Slotify">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- AUTHENTICATION ACTIVITIES -->
+        <activity
+            android:name=".semproject.OnboardingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".semproject.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".semproject.SignUpActivity"
+            android:exported="false" />
+
+        <!-- STUDENT DASHBOARD (lab8) -->
+        <activity
+            android:name=".lab8.MainActivity"
+            android:exported="false" />
+
+
+        <!-- TEACHER DASHBOARD AND ACTIVITIES (semproject) -->
+        <activity
+            android:name=".semproject.TeacherDashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".semproject.TimetableActivity"
+            android:exported="false" />
+        <activity
+            android:name=".semproject.WeeklyTimetableActivity"
+            android:exported="false" />
+        <activity
+            android:name=".semproject.NotificationsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".semproject.AddActivity"
+            android:exported="false" />
+        <activity
+            android:name=".semproject.ProfileActivity"
+            android:exported="false" />
+
+
+        <!-- CR DASHBOARD AND ACTIVITIES (madness_project) -->
+        <activity
+            android:name=".madness_project.CrDashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".madness_project.AlertsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".madness_project.EventsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".madness_project.PendingTasksActivity"
+            android:exported="false" />
+        <activity
+            android:name=".madness_project.ClassActionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".madness_project.ChangeTimeslotActivity"
+            android:exported="false" />
+        <activity
+            android:name=".madness_project.ClassroomChangeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".madness_project.SettingsActivity"
+            android:exported="false" />
+
+    </application>
+
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+
+</manifest>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#3F51B5</color>
+    <color name="primaryDark">#303F9F</color>
+    <color name="accent">#03DAC5</color>
+
+    <!-- Modern Dashboard Colors -->
+    <color name="dashboard_gradient_start">#2C3E5E</color>
+    <color name="dashboard_gradient_middle">#253550</color>
+    <color name="dashboard_gradient_end">#1A2840</color>
+    <color name="dashboard_card_glass">#4D5F7F</color>
+    <color name="dashboard_card_glass_light">#5A6D8C</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#F5F7FA</color>
+    <color name="background_dark">#1A2840</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_glass">#40FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_tertiary">#9CA3AF</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_on_dark">#FFFFFF</color>
+    <color name="text_on_dark_secondary">#B8C5D6</color>
+
+    <!-- Border & Stroke Colors -->
+    <color name="border">#E5E7EB</color>
+    <color name="divider">#F3F4F6</color>
+    <color name="border_glass">#60FFFFFF</color>
+
+    <!-- Subject Color Palette -->
+    <!-- Blue Shades -->
+    <color name="subject_blue_primary">#3F51B5</color>
+    <color name="subject_blue_light">#60A5FA</color>
+    <color name="subject_blue_stroke">#E0E7FF</color>
+    <color name="subject_blue_stroke_light">#BFDBFE</color>
+
+    <!-- Yellow/Orange Shades -->
+    <color name="subject_yellow_primary">#F59E0B</color>
+    <color name="subject_yellow_background">#FEFCE8</color>
+    <color name="subject_yellow_stroke">#FEF3C7</color>
+
+    <!-- Green Shades -->
+    <color name="subject_green_primary">#10B981</color>
+    <color name="subject_green_stroke">#D1FAE5</color>
+    <color name="subject_green_light">#4ADE80</color>
+
+    <!-- Orange Shades -->
+    <color name="subject_orange_primary">#F97316</color>
+    <color name="subject_orange_stroke">#FED7AA</color>
+
+    <!-- Purple Shades -->
+    <color name="subject_purple_primary">#8B5CF6</color>
+    <color name="subject_purple_light">#A78BFA</color>
+
+    <!-- Pink Shades -->
+    <color name="subject_pink_primary">#EC4899</color>
+    <color name="subject_pink_light">#F472B6</color>
+
+    <!-- Tile Colors for Home Screen -->
+    <color name="tile_today">#4285F4</color>
+    <color name="tile_makeup">#F9B44A</color>
+    <color name="tile_events">#9CB4D0</color>
+    <color name="tile_account">#7BAFD4</color>
+
+    <!-- Statistics Card Colors -->
+    <color name="stat_card_1">#5A7FA6</color>
+    <color name="stat_card_2">#6B8FB5</color>
+    <color name="stat_card_3">#4A6F95</color>
+
+    <!-- Bottom Navigation -->
+    <color name="bottom_nav_background">#FFFFFF</color>
+    <color name="bottom_nav_selected">#3F51B5</color>
+    <color name="bottom_nav_unselected">#9CA3AF</color>
+
+    <!-- Switch Colors -->
+    <color name="switch_thumb_checked">#3F51B5</color>
+    <color name="switch_thumb_unchecked">#E5E7EB</color>
+    <color name="switch_track_checked">#C7D2FE</color>
+    <color name="switch_track_unchecked">#E5E7EB</color>
+
+    <!-- Status Colors -->
+    <color name="error">#EF4444</color>
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+
+    <!-- Accent Colors for Dashboard -->
+    <color name="accent_gold">#FFD700</color>
+    <color name="accent_emerald">#50C878</color>
+    <color name="accent_coral">#FF7F50</color>
+
+    <!-- Blue Theme Palette -->
+    <color name="blue_darkest">#001B48</color>
+    <color name="blue_dark">#02457A</color>
+    <color name="blue_medium">#018ABE</color>
+    <color name="blue_light">#97CADB</color>
+    <color name="blue_lightest">#D6EBEE</color>
+
+    <!-- Timetable Colors -->
+    <color name="timetable_math">#FFB3BA</color>
+    <color name="timetable_bio">#BAFFC9</color>
+    <color name="timetable_eng">#FFD9BA</color>
+    <color name="timetable_hist">#FFFFBA</color>
+    <color name="timetable_chem">#E0BBE4</color>
+    <color name="timetable_sci">#BAE1FF</color>
+    <color name="timetable_lit">#FFC6FF</color>
+
+
+    <color name="main_background">#F7F9FC</color>
+    <color name="white_card">#FFFFFF</color>
+    <color name="divider_gray">#C7CCD6</color>
+    <color name="button_bg">#2F5D8C</color>
+    <color name="dark_blue">#2F5D8C</color>
+    <color name="medium_blue">#5FA8D3</color>
+    <color name="light_blue">#E6F0F8</color>
+    <color name="icon_blue">#3B82F6</color>
+    <color name="orange_card">#F4A261</color>
+    <color name="light_orange">#FFE5C2</color>
+    <color name="purple_card">#CDB4DB</color>
+    <color name="light_purple">#EFE7F6</color>
+    <color name="text_muted">#9CA3AF</color>
+    <color name="primary_blue">#2F5D8C</color>
+    <color name="accent_blue">#5FA8D3</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="always_white">#FFFFFF</color>
+
+
+    <color name="colorPrimary">#2563EB</color>
+    <color name="colorPrimaryDark">#1E4679</color>
+    <color name="colorAccent">#2563EB</color>
+    <color name="spotifyGreen">#1DB954</color>
+    <color name="spotifyGreenDark">#1AA34A</color>
+    <color name="backgroundDark">#121212</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grayText">#AAAAAA</color>
+    <color name="bottom_nav_active">#1E4679</color>
+    <color name="bottom_nav_inactive">#9E9E9E</color>
+    <color name="blue_main">#2563EB</color>
+
+</resources>

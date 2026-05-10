@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <style name="Theme.Slotify" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Makes the app background white -->
+        <item name="android:windowBackground">@android:color/white</item>
+
+
+    </style>
+
+
+
+    <!--  Base application theme.  -->
+    <style name="Base.Theme.Madness_Project" parent="Theme.Material3.DayNight.NoActionBar"> </style>
+    <style name="Theme.Madness_Project" parent="Base.Theme.Madness_Project"/>
+    <style name="Theme.MadnessProject" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorSecondary">@color/accent_blue</item>
+        <item name="android:statusBarColor">@color/primary_blue</item>
+        <item name="android:windowBackground">@color/main_background</item>
+        <item name="colorSurface">@color/surface_color</item>
+    </style>
+    <style name="TopCornerOnly">
+        <item name="cornerSizeTopLeft">40dp</item>
+        <item name="cornerSizeTopRight">40dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+    </style>
+</resources>
